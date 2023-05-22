@@ -1,3 +1,8 @@
-# todo-list
+# Todo-List
 Hello Everyone 
-This webapp is made using MERN, find its link here https://drona-16.github.io/todo-list/
+A simple to do list app to manage your tasks, projects, and team's work. In this video series we will create a TodoList, in which we can create, read, update and delete Todos. find its link here https://drona-16.github.io/todo-list/
+
+Technologies Used: 
+Frontend: React.js & Redux
+Backend: Node.js & Express.js
+Database: MongoDB
