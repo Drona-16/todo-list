@@ -1,11 +1,14 @@
 {
+  "homepage": "http://Drona-16.github.io/todo-list",
   "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
